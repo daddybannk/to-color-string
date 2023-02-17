@@ -2,6 +2,10 @@
 
 Convert text to hex color codes with JS `String.prototype` method.
 
+## Try it
+
+https://daddybannk.github.io/to-color-string
+
 ## Installation
 
 ### In a browser

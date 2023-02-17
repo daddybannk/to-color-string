@@ -1,6 +1,6 @@
 {
   "name": "to-color-string",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Convert text to hex color codes with JS `String.prototype` method.",
   "main": "dist/tocolorstring.js",
   "scripts": {
