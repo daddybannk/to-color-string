@@ -33,11 +33,11 @@ console.log("".toColorString());
 
 // case: single character
 console.log("h".toColorString()); 
-// "2510c3"
+// "#2510c3"
 
 // case: sentence
 console.log(`Hello, is it me you're looking for?`.toColorString()); 
-// "b1f23d"
+// "#b1f23d"
 ```
 
 ## Test
