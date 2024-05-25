@@ -11,7 +11,7 @@ https://daddybannk.github.io/to-color-string
 ### In a browser
 
 ```
-<script src="to-color-string/dist/tocolorstring.js"></script>
+<script src="to-color-string/dist/index.js"></script>
 ```
 
 ### Using npm

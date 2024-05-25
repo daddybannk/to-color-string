@@ -1,7 +1,7 @@
-var chai = require("chai");
-var expect = chai.expect;
+const chai = require("chai");
+const expect = chai.expect;
 
-require("../src/index");
+require("../dist/index");
 
 describe("to-color-string", function () {
     describe("Function `String.prototype.toColorString()`", function () {
